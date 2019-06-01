@@ -1,0 +1,11 @@
+name: RestarterManager
+main: RestarterManager\RestarterManager
+author: TeleMC
+version: 1.0.0
+api:
+  - 3.2.0
+  - 3.3.0
+  - 4.0.0
+commands:
+  재부팅:
+    description: 재부팅 관련 명령어 입니다.
